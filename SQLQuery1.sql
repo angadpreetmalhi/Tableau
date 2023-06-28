@@ -1,3 +1,6 @@
+/*
+cleaning data in Sql queries
+*/
 select *
 From portfolio_project..['covid death$']
 order by 3,4
